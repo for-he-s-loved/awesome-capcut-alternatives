@@ -89,6 +89,12 @@ CapCut's AI Auto-Edit feature suggests cuts from raw footage. Replacements:
 
 The 2026 CapCut Pro change pushed many short-form creators to look for alternatives. Most "alternatives" lists are affiliate spam. This is a flat, honest reference — what each tool actually does, organized by what you actually need. PRs welcome to keep it current.
 
+## Related lists
+
+- [awesome-beat-sync-video-editors](https://github.com/for-he-s-loved/awesome-beat-sync-video-editors) — beat-sync editor reference
+- [awesome-amv-tools](https://github.com/for-he-s-loved/awesome-amv-tools) — anime music video editing tools
+- [Beat Finder](https://for-he-s-loved.github.io/beat-finder/) — free browser BPM detector
+
 ## License
 
 [CC0](LICENSE) — Public domain.
