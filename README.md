@@ -93,6 +93,7 @@ The 2026 CapCut Pro change pushed many short-form creators to look for alternati
 
 - [awesome-beat-sync-video-editors](https://github.com/for-he-s-loved/awesome-beat-sync-video-editors) — beat-sync editor reference
 - [awesome-amv-tools](https://github.com/for-he-s-loved/awesome-amv-tools) — anime music video editing tools
+- [awesome-free-video-editors](https://github.com/for-he-s-loved/awesome-free-video-editors) — free video editors across browser, desktop, mobile, open-source
 - [Beat Finder](https://for-he-s-loved.github.io/beat-finder/) — free browser BPM detector
 
 ## License
