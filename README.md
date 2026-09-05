@@ -61,6 +61,7 @@ CapCut's AI Auto-Edit feature suggests cuts from raw footage. Replacements:
 
 - **[Veed.io Pro](https://veed.io)** — Browser, AI text-to-video.
 - **[Descript](https://www.descript.com)** — Script-to-video.
+- **[OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio)** — Open-source local CLI and MCP toolkit for agent-driven composition and editing; generation is optional with your own provider.
 - **[Runway](https://runwayml.com)** — Generative video.
 
 ## All alternatives compared
